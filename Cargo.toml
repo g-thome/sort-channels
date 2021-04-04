@@ -11,3 +11,4 @@ serenity = "0.10.4"
 tokio = { version = "1.4.0", features = ["rt-multi-thread"] }
 alphanumeric-sort = "1.4.1"
 dotenv = "0.15.0"
+mongodb = "2.0.0-alpha"
